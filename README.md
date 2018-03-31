@@ -1,1 +1,1 @@
-# Algorithm Lecture Assignments throughout fall 2016
+## Algorithm Assignments in fall 2016, CNU
